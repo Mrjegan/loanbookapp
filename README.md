@@ -1,4 +1,4 @@
-# Privacy Policy for Loan Book
+# Privacy Policy for DJ Loan Book
 
 ## Introduction
 This Privacy Policy explains how Trulyvo collects, uses, and protects your information when you use the Loan Book application ("Service"). The Loan Book app is a free application provided by Trulyvo to help small finance businesses manage customer information, track loans, and process repayments. By using our Service, you agree to the collection and use of information in accordance with this policy. We are committed to safeguarding your Personal Information and will not share it with anyone except as described in this Privacy Policy.
@@ -49,4 +49,4 @@ We may update this Privacy Policy periodically to reflect changes in our practic
 If you have any questions, concerns, or suggestions about this Privacy Policy, please reach out to us at:
 
 **Contact Information:**  
-Email: support@trulyvo.com
+Email: aiyappan17@gmail.com
