@@ -39,4 +39,4 @@ Changes to This Privacy Policy
 We may update this Privacy Policy periodically to reflect changes in our practices or legal requirements. Any updates will be posted on this page, and we encourage you to review it regularly. Changes are effective immediately upon posting.
 Contact Us
 If you have any questions, concerns, or suggestions about this Privacy Policy, please reach out to us at:
-Contact Information:Email: support@trulyvo.com
+Contact Information:Email: aiyappan17@gmail.com
